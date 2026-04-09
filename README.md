@@ -110,8 +110,8 @@ streamlit run app.py
 
 **Sanju Verma**
 
-- GitHub: https://github.com/SanjuVerma123  
-- LinkedIn: https://www.linkedin.com/in/sanju123/
+- GitHub: [Github Repo Link(https://github.com/SanjuVerma123)]  
+- LinkedIn: [Linkedin Profile link(https://www.linkedin.com/in/sanju123/)]
 
 ---
 
