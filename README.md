@@ -96,7 +96,7 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### 🔹 App UI
-![App Screenshot](screenshots/app_screenshot.png)
+![App Screenshot](app_screenshot.png)
 
 
 ## 🚀 Future Improvements
