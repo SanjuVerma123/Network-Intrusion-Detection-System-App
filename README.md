@@ -30,10 +30,12 @@ Deployment using Streamlit
 
 ## ⚙️ Installation & Setup
 #### 1️⃣ Clone Repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/SanjuVerma123/Network-Intrusion-Detection-System-App.git
+cd Network-Intrusion-Detection-System-App
+
 #### 2️⃣ Install Dependencies
 pip install -r requirements.txt
+
 #### 3️⃣ Run the App
 streamlit run app.py
 
